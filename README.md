@@ -7,7 +7,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Banner" title="Banner" src="https://i.ibb.co/Sc6D9Nv/20210823-230814.jpg ir" />
+    <img alt="Banner" title="Banner" src="https://i.ibb.co/JyHMLSX/20210823-230257.jpg ir" />
 </h1>
 
 ## 💻 Sobre
