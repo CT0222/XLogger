@@ -24,7 +24,7 @@ XLogger é um simples IPLogger feito em php com webhook para discord.
 
 ---
 
-##🚀 Como usar
+## 🚀 Como usar
 
 ### Pré-requisitos
 
