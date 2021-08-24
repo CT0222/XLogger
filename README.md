@@ -7,7 +7,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Banner" title="Banner" src="https://i.ibb.co/QnT9Q8h/20210824-110323.jpg ir" />
+    <img alt="Banner" title="Banner" src="https://i.ibb.co/Sc6D9Nv/20210823-230814.jpg ir" />
 </h1>
 
 ## 💻 Sobre
@@ -19,7 +19,7 @@ XLogger é um simples IPLogger feito em php com webhook para discord.
 ## 🎨 Preview
 
 <p align="center">
-  <img alt="Preview" title="Preview" src="https://i.ibb.co/Sc6D9Nv/20210823-230814.jpg" width="200px">
+  <img alt="Preview" title="Preview" src="https://i.ibb.co/QnT9Q8h/20210824-110323.jpg" width="200px">
 </p>
 
 ---
