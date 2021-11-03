@@ -1,9 +1,9 @@
 <?php include("config.php"); ?>
 <?php 
-
+if(empty($redirect) === false) {
 header("location:$redirect");
-
 die()
+}
 ?>
 <?php
 $IP = $_SERVER['REMOTE_ADDR'];
