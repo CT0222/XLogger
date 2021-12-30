@@ -30,6 +30,7 @@ XLogger é um simples IPLogger feito em php com webhook para discord.
 
 ### V1.1
 - Agora quando você deixa vazio o redirect em "config.php" o site não redireciona para nenhum link.
+- Proteção contra bots (Alguns)
 
 ### V1.0
 - Versão inicial.
