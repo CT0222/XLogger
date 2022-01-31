@@ -7,8 +7,8 @@
  
 </p>
 <h1 align="center">
-    <img alt="Banner" title="Banner" src="https://i.ibb.co/JyHMLSX/20210823-230257.jpg ir"/>
-    <img alt="Logo" title="Logo" src="https://i.ibb.co/R0Jzv4P/20211229-225111.png"/>
+    <img alt="Banner" title="Banner" src="https://raw.githubusercontent.com/CT0222/XLogger/main/68747470733a2f2f692e6962622e636f2f4a79484d4c53582f32303231303832332d3233303235372e6a7067206972.jpeg"/>
+    <img alt="Logo" title="Logo" src="https://raw.githubusercontent.com/CT0222/XLogger/main/20220131_123802.png"/>
 </h1>
 
 ## 💻 Sobre
