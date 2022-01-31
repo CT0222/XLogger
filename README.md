@@ -22,12 +22,17 @@ XLogger é um simples IPLogger feito em php com webhook para discord.
 ## 🎨 Preview
 
 <p align="center">
-  <img alt="Preview" title="Preview" src="https://i.ibb.co/QnT9Q8h/20210824-110323.jpg" width="200px">
+  <img alt="Preview" title="Preview" src="https://raw.githubusercontent.com/CT0222/XLogger/main/Screenshot_20220131-141820_Discord-Beta.png" width="200px">
 </p>
 
 ---
 
 ## 📜 Changelogs
+
+### V1.2
+- Agora as imagens estão hospedadas no github
+- A api das bandeiras foi trocada (A outra não funciona mais)
+- Agora o bot fica com a logo no avatar e a bandeira na embed
 
 ### V1.1
 - Agora quando você deixa vazio o redirect em "config.php" o site não redireciona para nenhum link.
