@@ -11,11 +11,11 @@
     <img alt="Logo" title="Logo" src="https://raw.githubusercontent.com/CT0222/XLogger/main/20220131_123802.png"/>
 </h1>
 
+### ⚠ Esse projeto é para propósitos de testes apenas, não me responsabilizo por seus atos.
+
 ## 💻 Sobre
 
 XLogger é um simples IPLogger feito em php com webhook para discord.
-
-(Esse projeto é para propósitos de testes apenas, não me responsabilizo por seus atos.)
 
 ---
 
